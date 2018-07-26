@@ -1,12 +1,1 @@
-# Plugins
-gems:
-- jekyll-sitemap
-safe: true
 
-# Build Settings
-markdown: kramdown
-permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '.gitignore']
-
-# Site Settings
-title: "A CleanAir Greece 2018"
